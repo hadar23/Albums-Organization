@@ -1,4 +1,4 @@
-# Albums-Organization
+# Music-Library-Organization
 Music library organization in java
 
 How to use (Eclipse):
