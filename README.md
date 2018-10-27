@@ -10,4 +10,4 @@ How to use (Eclipse):
 
 In the end, you should get a file similar to the "albumOutputFile.txt" file
 
-(Third java project, semester 1, software engineering bachelor degree)
+(Third Java project, semester 1, software engineering bachelor degree)
